@@ -1,0 +1,60 @@
+¿Cuál es el nombre del sistema de representación utilizado para las vistas en la Lámina N° 5?,Sistema ISO-E (Sistema Europeo).
+"En el sistema ISO-E, ¿qué nombre recibe la vista identificada con la letra A?",Vista Anterior (o Alzado).
+"En el sistema ISO-E, ¿qué nombre recibe la vista identificada con la letra B?",Vista Superior (o Planta).
+"En el sistema ISO-E, ¿qué nombre recibe la vista identificada con la letra C?",Vista Lateral Izquierda.
+"En el sistema ISO-E, ¿qué nombre recibe la vista identificada con la letra D?",Vista Lateral Derecha.
+"En el sistema ISO-E, ¿qué nombre recibe la vista identificada con la letra E?",Vista Inferior.
+"En el sistema ISO-E, ¿qué nombre recibe la vista identificada con la letra F?",Vista Posterior.
+¿Cuál es la relación de tamaño entre el dibujo y el objeto real según la escala $1:1$?,Son de igual tamaño (tamaño natural).
+"En el sistema ISO-E, ¿en qué posición se dibuja la Vista Superior (B) respecto a la Vista Anterior (A)?",Debajo de la Vista Anterior.
+"En el sistema ISO-E, ¿en qué posición se dibuja la Vista Inferior (E) respecto a la Vista Anterior (A)?",Encima de la Vista Anterior.
+"En el sistema ISO-E, ¿en qué posición se proyecta la Vista Lateral Izquierda (C) respecto a la Vista Anterior (A)?",A la derecha de la Vista Anterior.
+"En el sistema ISO-E, ¿en qué posición se proyecta la Vista Lateral Derecha (D) respecto a la Vista Anterior (A)?",A la izquierda de la Vista Anterior.
+¿Cuál es el ancho total de la base de la pieza según la cota horizontal principal?,$30\text{ mm}$.
+¿Cuál es la altura del escalón de la base de la pieza según la vista isométrica?,$5\text{ mm}$.
+¿Cuál es la profundidad total de la pieza (dimensión del eje $y$ en isometría)?,$25\text{ mm}$.
+¿Cuál es la altura del bloque principal por encima del escalón de la base?,$25\text{ mm}$.
+¿Cuál es la altura total de la pieza sumando la base y el cuerpo principal?,$30\text{ mm}$.
+¿Qué indica el uso de líneas de trazos (discontinuas) en las proyecciones ortogonales?,Representan aristas o contornos ocultos desde ese punto de vista.
+¿Qué tipo de línea se utiliza para los contornos y aristas visibles de la pieza?,Línea continua gruesa.
+"En la Vista Lateral Izquierda (C), ¿qué representa la línea horizontal de trazos?",El nivel del escalón de la base que queda oculto tras el bloque principal.
+"En la Vista Superior (B), ¿qué representa la línea vertical continua que divide el rectángulo?",El cambio de nivel entre el bloque superior y el escalón de la base.
+¿Qué forma geométrica tiene la cara superior del bloque principal antes del chaflán?,Rectangular.
+"En la Vista Anterior (A), ¿qué forma general presenta el perfil de la pieza?","Forma de ""L"" invertida con un escalón a la derecha."
+"En la Vista Posterior (F), ¿qué indica la línea horizontal de trazos?",La arista superior del escalón de la base que no es visible desde atrás.
+La medida del lado recomendada para los planos de proyección en la lámina es de _____.,$50\text{ mm}$.
+"Si el ancho total es $30\text{ mm}$ y el bloque superior mide $25\text{ mm}$, ¿cuánto mide el ancho del escalón sobresaliente?",$5\text{ mm}$.
+¿Qué nombre recibe el tipo de perspectiva donde los tres ejes forman ángulos de $120$ grados entre sí?,Perspectiva Isométrica.
+"En la Vista Inferior (E), ¿por qué se observan dos líneas de trazos?",Representan las aristas ocultas del cuerpo superior y del escalón vistas desde abajo.
+¿En qué tamaño de lámina se debe realizar el ejercicio según las instrucciones?,Lámina A3.
+¿Qué vista se coloca habitualmente a la derecha de la Vista Lateral Izquierda en el desarrollo plano del cubo de proyección?,La Vista Posterior (F).
+Concepto: Proyección Ortogonal.,Dibujo de un objeto en dos dimensiones mediante la proyección perpendicular de sus caras sobre planos.
+"En la perspectiva isométrica proporcionada, el corte inclinado en la esquina superior se denomina _____.",Chaflán.
+¿Cuál es la profundidad del escalón de la base de la pieza?,$25\text{ mm}$ (igual a la profundidad total).
+¿Cuántas vistas principales componen el sistema de proyección mostrado en la Figura 2?,Seis vistas.
+"En la Vista Lateral Derecha (D), la arista del escalón es _____ (visible/oculta).",Visible.
+"En la Vista Lateral Izquierda (C), la arista del escalón es _____ (visible/oculta).",Oculta.
+¿Qué vista muestra el chaflán como una línea inclinada continua en la parte superior?,Vista Lateral Derecha (D).
+¿Qué vista muestra el chaflán como una línea inclinada continua en la parte superior opuesta a la Vista D?,Vista Lateral Izquierda (C).
+El orden de las vistas en el papel para el Sistema ISO-E se basa en el método del _____ diedro.,Primer.
+"Si el dibujo se realiza en Escala $1:1$, una arista que mide $25\text{ mm}$ en el objeto medirá _____ en el papel.",$25\text{ mm}$.
+¿Qué vista permite apreciar mejor la longitud de $30\text{ mm}$ y la altura de $25\text{ mm}$ simultáneamente?,Vista Anterior (A).
+"En la Vista Superior (B), ¿cuál es la orientación del escalón de la base?",A la derecha del bloque principal.
+¿Hacia qué lado de la pieza se encuentra el chaflán superior según la vista isométrica principal?,Hacia la izquierda (visto desde el frente).
+La proyección que muestra el objeto dentro de un cubo que se despliega se denomina _____.,Desarrollo del cubo de proyección.
+¿Qué dimensión de la pieza se mantiene constante entre la Vista Anterior y la Vista Superior?,El ancho ($30\text{ mm}$).
+¿Qué dimensión de la pieza se mantiene constante entre la Vista Anterior y las Vistas Laterales?,La altura.
+¿Qué dimensión de la pieza se mantiene constante entre la Vista Superior y las Vistas Laterales?,La profundidad ($25\text{ mm}$).
+"En la Vista Superior (B), el chaflán se representa como una línea _____.",Horizontal (que define el límite superior del bloque).
+¿En qué sector de la Lámina N° 5 se debe dibujar la perspectiva isométrica?,En un sector (generalmente izquierdo o según distribución de la lámina).
+"¿Qué indica la flecha bajo el texto ""VISTA ANTERIOR"" en la imagen isométrica?",La dirección desde la cual se observa la pieza para obtener la vista A.
+"En el esquema de la Figura 2, ¿qué letra representa la cara que está directamente opuesta a la cara A?",La letra F (Vista Posterior).
+¿Cómo se llama la línea que representa el eje de simetría si la pieza fuera simétrica?,Línea de eje (trazo y punto).
+¿Cuál es la función principal de las cotas en un plano técnico?,Indicar las medidas reales del objeto independientemente de la escala.
+¿Qué significa que los planos de proyección tengan una medida de lado recomendada de $50\text{ mm}$?,Que el recuadro que contiene cada vista debe ser de $50\text{ mm}$ x $50\text{ mm}$.
+¿La Vista Posterior (F) se dibuja usualmente con aristas visibles o con muchas líneas ocultas?,Con líneas de trazos para representar el escalón y el cuerpo que quedan al frente.
+¿Cuál es el objetivo pedagógico de la Lámina N° 5?,Obtener las vistas principales de un cuerpo a partir de su isometría.
+"En la isometría, ¿las líneas paralelas del objeto se mantienen paralelas en el dibujo?","Sí, se mantienen paralelas."
+¿Qué cara de la pieza está en contacto con el plano de proyección en la Vista Inferior (E)?,La base de $30\text{ mm}$ x $25\text{ mm}$.
+"En la Vista Lateral Derecha (D), el escalón se ve a la _____ del bloque principal.",Derecha.
+¿Qué vista permite ver la verdadera magnitud del ángulo del chaflán?,Las vistas laterales (C y D).
